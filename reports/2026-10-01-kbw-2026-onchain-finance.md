@@ -4,6 +4,17 @@
 
 출처: 참석자 현장 메모의 발언 요지. 직접 인용문은 아니며, 해석·추론과 공식 자료 보완을 구분했다.
 
+## 세션 목차
+
+1. [Kraken’s Quest](#session-1)
+2. [Canton’s Bet on Connected Capital Markets](#session-2)
+3. [Digital Currency and the Future Monetary System](#session-3)
+4. [x402, AI Payments, and Privacy](#session-4)
+5. [The Future of Digital Finance](#session-5)
+6. **[Tokenizing the Fund Industry: Bridging TradFi Asset Managers and RWA Protocols](#session-6)** · 14:20~14:40
+7. [Agentic Payments: Making the New Internet](#session-7)
+8. [Kyobo × SBI Holdings × Ripple](#session-8)
+
 ## 핵심 요약
 
 **종합 해석: 온체인 금융의 경쟁력은 자산 발행뿐 아니라 프라이버시, 기관 간 연결, 담보 활용, 결제의 법적 확정성을 함께 갖추는 데 달려 있다.**
@@ -21,19 +32,21 @@
 | 한국의 디지털 통화 구조 | 아고라·한강·국채 토큰을 통한 통화 및 결제 구조 변화 | 기술적 거래 완료와 법적 결제완결성을 구분 |
 | x402와 AI 결제 | AI 거래의 소유자·책임자와 스테이블코인 결제 | 결제 권한 위임 및 책임 소재가 후속 질문 |
 | The Programmable Economy Guide | 상세 메모 없음 | 발표 내용 요약 보류 |
-| 펀드 토큰화 · 14:20~14:40 | 온체인 펀드, 즉각적인 담보 제공, 글로벌 유통 | 국가별 규정과 기관급 커스터디 역량 검토 |
+| [Tokenizing the Fund Industry](#session-6) · 14:20~14:40 | 온체인 펀드, 즉각적인 담보 제공, 글로벌 유통 | 국가별 규정과 기관급 커스터디 역량 검토 |
 | Agentic Payments · 15:20~15:50 | 관심 세션으로 기록, 상세 메모 없음 | x402 세션의 발언과 합쳐서 단정하지 않음 |
 | 교보 × SBI × Ripple | 문화 자산 활용 구상 및 RLUSD 기반 주식 매수 자금 PoC | 자산 토큰화와 자금 조달·결제 실험의 범위 구분 |
 
-## 글로벌 플랫폼과 기관용 토큰화
+<a id="session-1"></a>
 
-### Kraken’s Quest From CEX to Global Financial Infrastructure
+## 1. Kraken’s Quest: From CEX to Global Financial Infrastructure
 
 **현장 메모:** Payward는 미국 시장 진출 시 활용하기 쉬운 표준을 제공하는 방향을 설명했다. 아시아만의 별도 표준을 만들기보다 가장 우수한 플랫폼으로 이용자가 모일 것이라는 관점이 제시됐다.
 
 **시사점 — 추론:** 자체 표준 보유 여부보다 해외 시장 접근, 기존 인프라와의 연결, 이용 편의성이 플랫폼 경쟁력을 판단하는 기준이 될 수 있다. Payward가 제공한다는 ‘표준’의 구체적인 제품·서비스 범위는 추가 확인이 필요하다.
 
-### Canton’s Bet on Connected Capital Markets
+<a id="session-2"></a>
+
+## 2. Canton’s Bet on Connected Capital Markets
 
 발표자: Yuval Rooz. 공식 자료상 직함은 Digital Asset 공동창업자 겸 CEO다.[1]
 
@@ -45,11 +58,43 @@
 
 **사례 및 확인 과제:** 메모에는 레포 규모 15조 달러, DTCC의 미국 주식·국채 온체인 이전, 남미 국가의 비청산 파생상품 거래 개시가 기록돼 있다. 15조 달러의 집계 기간·잔액 여부와 남미 국가명은 미확인이다. DTCC와 Canton의 공식 협력 발표는 DTC가 보관하는 일부 미국 국채의 토큰화부터 시작하는 계획이므로, 주식 전체가 이미 Canton으로 이전됐다는 의미로 읽어서는 안 된다.[1]
 
-## 펀드 토큰화 세션
+<a id="session-3"></a>
 
-**Tokenizing the Fund Industry: Bridging TradFi Asset Managers and RWA Protocols**
+## 3. Digital Currency and the Future Monetary System: Korea’s Next Architecture
 
-시간 14:20~14:40 · 출처 참석자 현장 메모 · 작성일 2026년 10월 1일
+**현장 메모의 중심 질문:** 여러 은행과 시장의 자산이 토큰화될 때, 중앙은행 화폐와 은행 예금을 어떻게 연결하고 결제를 확정할 것인가.
+
+| 주제 | 현장 메모 요지 | 구분해서 볼 쟁점 |
+|---|---|---|
+| 아고라 | 국가 간 환거래 구조를 블록체인으로 옮기고, 은행 간 토큰을 연결하는 공통 계층 마련 | 공식 설명은 토큰화된 상업은행 예금과 중앙은행 준비금을 결합하는 도매 국경 간 결제 실험이다.[3] |
+| 한강 | 여러 프로토콜의 예금토큰을 지원하는 공유 원장과 중앙은행 화폐 | 예금토큰과 중앙은행 결제 자산의 역할 및 실제 적용 범위 |
+| 국채 토큰 | ‘내년’ 시범사업, 일중 레포·채권·단기금융시장 활성화 기대 | 사업 주체, 대상 자산, 확정 일정 확인 필요 |
+| 복수 원장 | 기존 원장과 온체인 원장이 동시에 갱신되지 않을 때 소유권 문제 | 권리를 확정하는 기준 원장과 오류 복구 절차 |
+| 중앙은행 역할 | 통화의 대부분인 예금의 토큰화를 뒷받침하는 인프라 필요 | ‘예금 비중 96%’는 통화 지표·국가·기준시점 미확인 |
+
+**개념 보완:** 원자적 결제(atomic settlement)는 서로 연결된 자산 이전이 모두 함께 실행되거나 실행되지 않도록 하는 방식이다.[4] 법적 결제완결성은 해당 결제가 법적으로 최종 확정되는 문제다. 둘은 관련되지만 같은 개념은 아니다. ‘한국은행 총재의 발표로 완결성을 부여한다’는 메모는 구체적인 발언 맥락과 법적 근거를 확인한 뒤 인용해야 한다.
+
+**추가 발언:** 스테이블코인이 비거주자의 달러 접근성을 높일 수 있다는 설명과, 토큰화가 단기금융시장의 활용도를 높일 수 있다는 기대가 기록됐다. 아고라의 2027~2028년 검토·활용 일정과 ‘minimal buyable product’ 표현은 확정 로드맵이나 공식 용어로 인용하지 않고 확인 대상으로 둔다.
+
+<a id="session-4"></a>
+
+## 4. x402, AI Payments, and Privacy: Building the Autonomous Transaction Layer
+
+**현장 메모:** AI 에이전트가 거래할 때 소유자와 책임자를 구분하는 일이 중요해지고, 스테이블코인이 주요 결제 수단이 될 것이라는 전망이 제시됐다. 발표는 개인 자격의 참여로 기록돼 있다.
+
+**시사점 — 추론:** 결제 기술과 함께 지출 한도, 승인 조건, 권한 회수, 오류 발생 시 책임 주체를 설계해야 한다. 이는 해당 세션의 상세 기술 사양이 아니라 팀의 후속 검토 항목이다.
+
+<a id="session-5"></a>
+
+## 5. The Future of Digital Finance: The Programmable Economy Guide
+
+상세 메모가 없어 발표 내용은 요약하지 않았다. 발표자료 확보 후 보완할 항목이다.
+
+<a id="session-6"></a>
+
+## 6. Tokenizing the Fund Industry: Bridging TradFi Asset Managers and RWA Protocols
+
+**시간: 14:20~14:40**
 
 ### 핵심 메시지
 
@@ -77,33 +122,17 @@
 
 참고: 협력은 현장 메모에 ‘어제’로 기록돼 있어 발표일 확인이 필요하다. ‘구빈이형’과 ‘알렉스’의 성명·소속은 확인 전까지 특정 기관의 발언으로 귀속하지 않는다.
 
-## 디지털 통화와 결제 구조
+<a id="session-7"></a>
 
-### Digital Currency and the Future Monetary System Korea’s Next Architecture
+## 7. Agentic Payments: Making the New Internet
 
-**현장 메모의 중심 질문:** 여러 은행과 시장의 자산이 토큰화될 때, 중앙은행 화폐와 은행 예금을 어떻게 연결하고 결제를 확정할 것인가.
+**시간: 15:20~15:50**
 
-| 주제 | 현장 메모 요지 | 구분해서 볼 쟁점 |
-|---|---|---|
-| 아고라 | 국가 간 환거래 구조를 블록체인으로 옮기고, 은행 간 토큰을 연결하는 공통 계층 마련 | 공식 설명은 토큰화된 상업은행 예금과 중앙은행 준비금을 결합하는 도매 국경 간 결제 실험이다.[3] |
-| 한강 | 여러 프로토콜의 예금토큰을 지원하는 공유 원장과 중앙은행 화폐 | 예금토큰과 중앙은행 결제 자산의 역할 및 실제 적용 범위 |
-| 국채 토큰 | ‘내년’ 시범사업, 일중 레포·채권·단기금융시장 활성화 기대 | 사업 주체, 대상 자산, 확정 일정 확인 필요 |
-| 복수 원장 | 기존 원장과 온체인 원장이 동시에 갱신되지 않을 때 소유권 문제 | 권리를 확정하는 기준 원장과 오류 복구 절차 |
-| 중앙은행 역할 | 통화의 대부분인 예금의 토큰화를 뒷받침하는 인프라 필요 | ‘예금 비중 96%’는 통화 지표·국가·기준시점 미확인 |
+개인적으로 관심을 둔 세션으로 기록돼 있으나 상세 발언 메모는 없다. 앞선 x402 세션과는 별개의 세션으로 구분한다.
 
-**개념 보완:** 원자적 결제(atomic settlement)는 서로 연결된 자산 이전이 모두 함께 실행되거나 실행되지 않도록 하는 방식이다.[4] 법적 결제완결성은 해당 결제가 법적으로 최종 확정되는 문제다. 둘은 관련되지만 같은 개념은 아니다. ‘한국은행 총재의 발표로 완결성을 부여한다’는 메모는 구체적인 발언 맥락과 법적 근거를 확인한 뒤 인용해야 한다.
+<a id="session-8"></a>
 
-**추가 발언:** 스테이블코인이 비거주자의 달러 접근성을 높일 수 있다는 설명과, 토큰화가 단기금융시장의 활용도를 높일 수 있다는 기대가 기록됐다. 아고라의 2027~2028년 검토·활용 일정과 ‘minimal buyable product’ 표현은 확정 로드맵이나 공식 용어로 인용하지 않고 확인 대상으로 둔다.
-
-### x402 AI Payments and Privacy
-
-**현장 메모:** AI 에이전트가 거래할 때 소유자와 책임자를 구분하는 일이 중요해지고, 스테이블코인이 주요 결제 수단이 될 것이라는 전망이 제시됐다. 발표는 개인 자격의 참여로 기록돼 있다.
-
-**시사점 — 추론:** 결제 기술과 함께 지출 한도, 승인 조건, 권한 회수, 오류 발생 시 책임 주체를 설계해야 한다. 이는 해당 세션의 상세 기술 사양이 아니라 팀의 후속 검토 항목이다.
-
-## 교보와 SBI 및 Ripple의 협력 논의
-
-### Onchain Finance Exchange Tokenization at Institutional Scale
+## 8. [Kyobo × SBI Holdings × Ripple] Onchain Finance Exchange: Tokenization at Institutional Scale
 
 **현장 메모:** 교보증권, SBI Digital Markets, Ripple, 웨이브릿지가 RLUSD를 활용한 한국 주식 매수 및 결제 자금 조달 구조의 개념검증(PoC)을 완료했다는 내용이 기록됐다. 구체적인 거래 흐름과 검증 범위는 확인이 필요하다.
 
